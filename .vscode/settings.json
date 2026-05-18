@@ -1,0 +1,5 @@
+{
+  "python.dataScience.notebookFileRoot": "${fileDirname}",
+  "jupyter.notebookFileRoot": "${fileDirname}",
+  "notebook.fileRoot": "${fileDirname}"
+}
