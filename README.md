@@ -1,4 +1,4 @@
-Here is a professional, production-grade project description tailored for your resume, portfolio, or GitHub README. It is structured to highlight both your deep technical engineering skills and your strong product/business thinking—exactly what top-tier recruiters and FAANG hiring managers look for.
+
 
 ---
 
